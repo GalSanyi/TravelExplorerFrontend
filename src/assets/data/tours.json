@@ -1,0 +1,99 @@
+[
+  {
+    "title": "Golden Gate Bridge",
+    "city": "San Francisco",
+    "address": "San Francisco, California",
+    "distance": 300,
+    "price": 99,
+    "maxGroupSize": 10,
+    "desc": "This is the description for the Golden Gate Bridge tour.",
+    "reviews": [],
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/0/0c/GoldenGateBridge-001.jpg",
+    "featured": true
+  },
+  {
+    "title": "Santorini, Greece",
+    "city": "Santorini",
+    "address": "Santorini, Greece",
+    "distance": 400,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "This is the description for the Santorini, Greece tour.",
+    "reviews": [],
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/3/37/Oia_sunset_-_panoramio_%282%29.jpg",
+    "featured": true
+  },
+  {
+    "title": "Rocky Mountain Adventure",
+    "city": "Denver",
+    "address": "Denver, Colorado",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "This is the description for the Rocky Mountain Adventure tour.",
+    "reviews": [],
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Moraine_Lake_17092005.jpg",
+    "featured": true
+  },
+  {
+    "title": "Tropical Paradise",
+    "city": "Maui",
+    "address": "Maui, Hawaii",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "This is the description for the Tropical Paradise tour.",
+    "reviews": [],
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Maui_Landsat_Photo.jpg",
+    "featured": true
+  },
+  {
+    "title": "Venice, Italy",
+    "city": "Venice",
+    "address": "Venice, Italy",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "This is the description for the Venice, Italy tour.",
+    "reviews": [],
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/d/df/Santa_Maria_della_Salute_%2850428075772%29.jpg",
+    "featured": true
+  },
+  {
+    "title": "Kyoto Cherry Blossoms",
+    "city": "Kyoto",
+    "address": "Kyoto, Japan",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "This is the description for the Kyoto Cherry Blossoms tour.",
+    "reviews": [],
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Kiyomizu.jpg",
+    "featured": true
+  },
+  {
+    "title": "Eiffel Tower Experience",
+    "city": "Paris",
+    "address": "Paris, France",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "This is the description for the Eiffel Tower Experience tour.",
+    "reviews": [],
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/4/42/Eiffel_names_highlight.jpg",
+    "featured": true
+  },
+
+  {
+    "title": "Great Barrier Reef",
+    "city": "Cairns",
+    "address": "Cairns, Australia",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "This is the description for the Great Barrier Reef tour.",
+    "reviews": [],
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/4/4f/ISS-45_StoryOfWater%2C_Great_Barrier_Reef%2C_Australia.jpg",
+    "featured": false
+  }
+]
